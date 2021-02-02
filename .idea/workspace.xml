@@ -14,30 +14,24 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d2dabde-44e2-4dbc-ae03-cf256972a3ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/placeholder_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/navEditor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nvVs29gaYKrzXbK5Wt88VQrxKi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -162,6 +156,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="630" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612271947355">
@@ -172,25 +167,25 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="480" y="296" key="AndroidCreateResourceFileDialog/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612273095280" />
-    <state width="1431" height="245" key="GridCell.Tab.0.bottom" timestamp="1612272082820">
+    <state width="1698" height="255" key="GridCell.Tab.0.bottom" timestamp="1612280697136">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1431" height="245" key="GridCell.Tab.0.bottom/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612272082820" />
-    <state width="1431" height="245" key="GridCell.Tab.0.center" timestamp="1612272082819">
+    <state width="1698" height="255" key="GridCell.Tab.0.bottom/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612280697136" />
+    <state width="1698" height="255" key="GridCell.Tab.0.center" timestamp="1612280697135">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1431" height="245" key="GridCell.Tab.0.center/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612272082819" />
-    <state width="1431" height="245" key="GridCell.Tab.0.left" timestamp="1612272082819">
+    <state width="1698" height="255" key="GridCell.Tab.0.center/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612280697135" />
+    <state width="1698" height="255" key="GridCell.Tab.0.left" timestamp="1612280697134">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1431" height="245" key="GridCell.Tab.0.left/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612272082819" />
-    <state width="1431" height="245" key="GridCell.Tab.0.right" timestamp="1612272082819">
+    <state width="1698" height="255" key="GridCell.Tab.0.left/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612280697134" />
+    <state width="1698" height="255" key="GridCell.Tab.0.right" timestamp="1612280697135">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1431" height="245" key="GridCell.Tab.0.right/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612272082819" />
-    <state x="677" y="293" width="670" height="676" key="search.everywhere.popup" timestamp="1612276149680">
+    <state width="1698" height="255" key="GridCell.Tab.0.right/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612280697135" />
+    <state x="677" y="293" width="670" height="676" key="search.everywhere.popup" timestamp="1612280718076">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="677" y="293" width="670" height="676" key="search.everywhere.popup/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612276149680" />
+    <state x="677" y="293" width="670" height="676" key="search.everywhere.popup/219.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1612280718076" />
   </component>
 </project>
